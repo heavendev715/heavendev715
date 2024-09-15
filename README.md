@@ -1,10 +1,7 @@
-## Hey there, I am Ayan! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hello! My name is Antonii <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am a IT student in University Of Mumbai.
+I am a full stak developer with 7+ experience.
 
-![GitHub Follow](https://img.shields.io/github/followers/ayan-joshi.svg?style=social&label=Follow)
-![GitHub Star](https://img.shields.io/github/stars/ayan-joshi?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ayan-joshi.ayan-joshi)
 
 
 <a href=#><img src="contributions.svg"></a>
@@ -14,8 +11,8 @@ I am a IT student in University Of Mumbai.
 📩 How to reach me 
 <br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-ayananupjoshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayananupjoshi/)](https://www.linkedin.com/in/ayan-joshi-8568701ab/)
-[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayanjoshi182003@gmail.com)](mailto:ayanjoshi182003@gmail.com)
+
+[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heavendev715@gmail.com)](mailto:heavendev715@gmail.com)
 
 
 ⚙ Tools and Technologies
@@ -26,9 +23,9 @@ I am a IT student in University Of Mumbai.
 
 
 - 🔭 I’m currently working on improving my Problem Solving Skills.
-- 🌱 I’m currently learning React JS.
-- 👯 I’m looking to collaborate on Frontend Development.
-- 🤔 I’m looking for help with Competitive Programming.
+- 🌱 I’m currently working on data reversing.
+- 👯 I’m looking to client who I can do my best.
+- 🤔 Thinking about new tech.
 
 <p>
 	<a href="https://community.vaunt.dev/board/ayan-joshi">
@@ -37,9 +34,6 @@ I am a IT student in University Of Mumbai.
 </p>
 
 
-<img align="left" alt="Ayan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayan-joshi&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" />
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ayan-joshi)](https://git.io/streak-stats)
 
 
 
