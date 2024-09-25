@@ -1,6 +1,6 @@
 ## Hello! My name is Antonii <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am a full stak developer with 7+ experience.
+I am a full stack developer with 7+ experience.
 
 
 
@@ -25,7 +25,7 @@ I am a full stak developer with 7+ experience.
 - 🔭 I’m currently working on improving my Problem Solving Skills.
 - 🌱 I’m currently working on data reversing.
 - 👯 I’m looking to client who I can do my best.
-- 🤔 Thinking about new tech.
+- 🤔 Learning about new tech.
 
 <p>
 	<a href="https://community.vaunt.dev/board/ayan-joshi">
